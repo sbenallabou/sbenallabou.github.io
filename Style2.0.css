@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+half {
+    width: 50%;
+    height: 100%;
+}
+
+left {
+    background-color: lightblue;
+    position: relative;
+}
+
+right {
+    background-color: black;
+}
+
+/* Image en haut à gauche */
+image-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+image-container img {
+    max-width: 100px;
+    max-height: 100px;
+}

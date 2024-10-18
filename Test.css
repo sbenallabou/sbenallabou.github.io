@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    margin: 10;
+    padding: 10;
+    display: flex;
+    justify-content: center-left;
+    align-items: center-left;
+    text-align: center-left;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(to bottom, lightblue 50%, black 50%);
+    color: white;
+    position: relative;
+}
+
+.image-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.image-container img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+

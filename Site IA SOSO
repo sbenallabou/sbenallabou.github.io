@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Site IA</title>
+</head>
+
+<body>
+<p>En cours de réalisation!
+</p>
+<ul> 
+	<li>Poster 1 IA : <a> IA 1 M2</a>
+	</li>
+
+	<li>Poster 2 IA : <a> IA 2 Master</a>
+	</li>
+
+	<li>Poster 3 IA : <a> IA 3 Master</a>
+	</li>
+
+	<li>Poster 4 IA : <a> IA 4 Master</a>
+	</li>
+
+	<li>Poster 5 IA : <a> IA 5
+			Master</a>
+	</li>
+
+	<li>Poster 6 IA : <a> IA 6 Master</a>
+	</li>
+
+</ul>
+</body>
+
+</html>
+
+
