@@ -1,0 +1,35 @@
+Nom : Sofiane Benallabou  
+Projet : LLM générateur de fiches d’arrêts  
+Fichier : activités.txt  
+
+-------------------------------------------
+ACTIVITÉS RÉALISÉES
+-------------------------------------------
+
+- J'ai rassemblée mes fiches d'arrêt personnelles.
+- Tri par matière et par juridiction (ajout des dates pour les arrêts ou les dates manquait).
+- Envoi au groupe de mes fiches notamment à Marion Loiseau et Bastien Grobost.
+- J'ai génération ces meme fiches d’arrêts via des IA (ChatGPT, GoodLegal) afin de voir si les IA connaissait la méthode. 
+- J'ai remarqué que les IA ne qualifiait pas bien les parties et posait des questions de droit trop longues et générales.
+- Correction et amélioration des sorties IA
+- Travail de reformulation de ChatGPT pour respecter les exigences méthodologique de la fiche d'arrêt.
+- Ajustement du format des questions de droit : formulation plus précise, conforme aux attentes universitaires.
+- Obtention d’une fiche d’arrêt parfaitement conforme en seulement 4 prompts.
+
+- Construction de prompts spécialisés (https://chatgpt.com/c/691b4381-da7c-832d-bebb-945a1c3f6af9)
+
+- Création de prompts permettant de générer automatiquement :
+  * une fiche d’arrêt complète,
+  * une question de droit (courte et adapté aux problèmes juridiques posées par l'arrêt),
+- Tests sur différents arrêts.
+
+Recherche juridique sur l’exception de fouille de textes et de données (TDM)
+- Étude de la directive (UE) 2019/790 (articles 3 et 4).
+- Analyse des articles L.122-5, 10° ; L.122-5-3 ; L.122-5-3-1 du CPI (https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048603495 ; https://www.ouvrirlascience.fr/la-fouille-de-textes-et-de-donnees-a-des-fins-de-recherche-une-pratique-confirmee-et-desormais-operationnelle-en-droit-francais/).
+- Lecture du décret n° 2022-928 concernant l’opt-out.
+- J'ai rédigé un mémo afin de vérifier la conformité de notre projet à ces dispositions :
+  * la légalité du scraping d’ouvrages de fiches d’arrêts (bases légales),
+  * les conditions d’accès licite,
+  * les limites (opt-out, stockage sécurisé),
+  * Conclusion avec une synthèse.
+
